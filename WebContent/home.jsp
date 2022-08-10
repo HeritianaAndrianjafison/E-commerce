@@ -92,7 +92,7 @@
 					  </div><!-- /.container-fluid -->
 					</nav>
 				</div>
-				<div class="row" style="display: none;">
+				<div class="row" >
 					<!-- Main Box -->
 					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
 						<div class="try_logo_wrapper">
@@ -101,7 +101,7 @@
 							</a>
 						</div>
 					</div>
-					<div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+					<div class="col-lg-10 col-md-10 col-sm-10 col-xs-12" style="display: none;">
 						<div class="main-box">
 							<div class="main-box">
 								<div class="auto-container">
@@ -321,7 +321,7 @@
 	</div>
 	<div id="mobile" class="width_calc">
 		<!--try Slider banner Start-->
-		<div class="try_banner_slider_wrapper" style="display: none;">
+		<div class="try_banner_slider_wrapper" >
 			<div class="try_circle_first">
 				<img src="images/header/right_cycle1.png" alt="circle">
 			</div>
@@ -507,7 +507,7 @@
 	<!--try recent mobail Slider End-->
 	<!--try Slider banner Start-->
 	<div id="Earphones" class="width_calc" >
-		<div class="try_banner_erp_slider_wrapper" style="display: none;">
+		<div class="try_banner_erp_slider_wrapper" >
 			<div class="try_banner_erp_img_overlay"></div>
 			<div class="try_banner_erp_slider_inner_wrapper">
 				<div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
@@ -658,7 +658,7 @@
 	<!--try sh section End-->
 	<!--try Slider banner Start-->
 	<div id="Earphones" class="width_calc" >
-		<div class="try_banner_erp_slider_wrapper" style="display: none;">
+		<div class="try_banner_erp_slider_wrapper" >
 			<div class="try_banner_erp_img_overlay"></div>
 			<div class="try_banner_erp_slider_inner_wrapper">
 				<div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
@@ -808,7 +808,7 @@
 	</div>
 	<!--try sh section End-->
 	<!--try led section Start-->
-	<div id="Led" class="width_calc" style="display: none;">
+	<div id="Led" class="width_calc">
 		<div class="try_led_main_section_wrapper">
 			<div class="try_led_img_overlay"></div>
 			<div class="container">
@@ -954,7 +954,7 @@
 	</div>
 	<!--try lt st section End-->
 	<!--try watch Slider banner Start-->
-	<div id="Watch" class="width_calc" style="display: none;">
+	<div id="Watch" class="width_calc" >
 		<div class="try_banner_watch_slider_wrapper">
 			<div class="try_circle_first">
 				<img src="images/header/right_cycle1.png" alt="circle">
@@ -1151,7 +1151,7 @@
 	</div>
 	<!--try recent mobail Slider End-->
 	<!--try Slider banner Start-->
-	<div id="MacBook" class="width_calc" style="display: none;">
+	<div id="MacBook" class="width_calc" >
 		<div class="try_banner_mac_slider_wrapper">
 			<div class="try_banner_erp_img_overlay"></div>
 			<div class="try_banner_mac_slider_inner_wrapper">
@@ -1406,7 +1406,7 @@
 	</div>
 	<!--try lt st section End-->
 	<!--try bank Slider banner Start-->
-	<div id="power" class="width_calc" style="display: none;">
+	<div id="power" class="width_calc" >
 		<div class="try_banner_bank_slider_wrapper">
 			<div class="try_circle_first">
 				<img src="images/header/right_cycle1.png" alt="circle">
@@ -1600,7 +1600,7 @@
 	</div>
 	<!--try recent mobail Slider End-->
 	<!--try cam Slider banner Start-->
-	<div id="Camera" class="width_calc" style="display: none;">
+	<div id="Camera" class="width_calc" >
 		<div class="try_banner_cam_slider_wrapper">
 			<div class="try_banner_erp_img_overlay"></div>
 			<div class="try_banner_cam_slider_inner_wrapper">

@@ -18,9 +18,9 @@ public class ConnexionBase {
 		}
 		
 		/* Connexion à la base de données */
-		String url = "jdbc:mysql://localhost/tixshop";
+		String url = "jdbc:mysql://node375991-e-commerce.j.layershift.co.uk/tixshop";
 		String utilisateur = "root";
-		String motDePasse = "";
+		String motDePasse = "TDTmba16376";
 		
 		try {
 		    con = DriverManager.getConnection( url, utilisateur, motDePasse );
